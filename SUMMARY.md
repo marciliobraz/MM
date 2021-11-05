@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Orientações Líderes](README.md)
+* [Boas Práticas](README.md)
+* [Contatos Garantia](contatos-garantia.md)
+* [Orientações Líderes](<README (1).md>)
 * [Orientações Consultores](orientacoes-consultores.md)
-* [Boas Práticas](boas-praticas.md)
