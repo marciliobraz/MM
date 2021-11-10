@@ -334,7 +334,7 @@ PARTES E PECAS TEM GARANTIA DE 6 MESES DE BALCAO. SE O PRODUTO TROUXER EMBALAGEM
 
 ## LG
 
-AUTORIZADA LG SAC 4004-5400 - [WWW.LGE.COM.BR](http://www.lge.com.br)
+AUTORIZADA LG SAC 4004-5400 - [www.lg.com/br/suporte/garantia](https://www.lg.com/br/suporte/garantia)
 
 &#x20;
 
