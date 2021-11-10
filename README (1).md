@@ -1,43 +1,89 @@
-# Orientações Líderes
+# Boas Práticas
 
-**Líderes de Loja**
+## Alarmes celular/tablet
 
-Abaixo segue algumas orientações importantes na rotina do seu trabalho: 
 
-• 1 folga semanal (domingos alternados e quando trabalhar domingo folgar durante a semana escolhendo entre: terça / quarta e quinta-feira). Não é permitido folgas de líderes nos dias: segunda-feira, sexta-feira ou sábado. Salvo algum motivo e autorizado pelo RH ou Direção. 
 
-• Nas unidades que trabalham 02 líderes, as folgas devem ser revezadas entre as lideranças da loja (Gerente e Encarregado), garantindo que na ausência de um sempre haverá um responsável em loja. 
+Além da conferência no check list, quando o alarme disparar deve ser feita a verificação se o cabo está conectado fisicamente ao aparelho antes de reativar o alarme.
 
-• Muita atenção aos procedimentos de segurança: Abertura de Loja; Andamento do Dia e Fechamento de loja. 
+Verificar se o cabo está conectado ao aparelho, à central do alarme e se o cabo não está cortado.
 
-• Escalas de trabalho da equipe devem ser realizadas semanalmente e enviadas ao e-mail do RH com antecedência de 72hs do seu vigor. Ex.: a escala inicia no Domingo, a mesma deve ser enviada até quinta-feira da semana que antecede; 
+Verificar os aparelhos que dispararam e os que estão ligados na mesma central.
 
-• Todos funcionários devem se apresentar ao trabalho uniformizados e com crachá de identificação. Pedimos as colaboradoras se apresentar com maquiagem simples sem exageros e moderação a todos quanto ao uso de acessórios ,penteados, piercings exagerados. Não é recomendável atendimentos com gírias, expressões de muita intimidade ou brincadeiras que possam ter entendimentos ofensivos. A postura profissional desejada deve ser de prontidão, simpática, educada, respeitosa e atenciosa. 
+## Vitrine
 
-• Ensine, acompanhe, dê o exemplo, faça feedback individual pelo menos 1 vez por mês e reuniões com o grupo semanalmente para motivar, orientar e informar sobre novidades, listas, promoções, metas, etc 
+Todas as vitrines devem estar trancadas e com alarmes funcionando. Qualquer tipo de manipulação na vitrine deve ser feito sem a presença de clientes.&#x20;
 
-• Funcionários no período de experiência devem ser bem avaliados e acompanhados. Para isso pedimos que seja apresentado ao RH no mínimo 02 avaliações preenchidas e assinadas tanto pelo Gerente responsável quanto pelo funcionário avaliado. Consideramos que o número ideal de avaliações seja de 03 (1x por mês). Caso o funcionário seja efetivado, verificar se o mesmo tem interesse ao benefício de Assistência Médica, informar valores e assinar o Termo de Adesão ao Plano de Saúde e enviar ao RH. E se ele não estiver respondendo positivamente e não for efetivado deve ser sinalizado com antecedência mínima de 10 dias; 
+Os produtos da vitrine estão confinados e devem ser retirados apenas no momento da venda.&#x20;
 
-• Dispensa de Funcionários fora do período de Experiência. Após o período de experiência a empresa tem custos extras nas verbas rescisórias (aviso prévio e multa FGTS), por isso a avaliação durante o período de experiência é por demais valiosa, porém, se este for o caso, a reposição desta mão de obra não é imediata, o prazo é feito diante de uma tabela do tempo de empresa que o funcionário em questão tem. Para maiores informações sobre este tema fale com a Gerência do RH; 
+Se o cliente quiser “ver” o produto da vitrine informe que não é permitida a abertura da vitrine.&#x20;
 
-• Informações sobre os benefícios está disponível no sistema em: Opções / Manuais e Circulares / conheça seus benefícios; 
+Se houver venda peça auxilio para executar o procedimento. Abrir, pegar o produto e fechar a vitrine.&#x20;
 
-• Não é permitido o uso de celulares/smartphones no salão de vendas para fins pessoais ou particulares. Este tema é muito importante, já tivemos diversas reclamações de mal atendimento ou falta dele por este motivo; disponibilizamos nossos telefones da loja a todos colaboradores para eventual necessidade e emergência. Podendo ele fazer ou receber ligações durante seu horário de trabalho, caso assim precise. 
+Nunca virar as costas para a vitrine aberta.
 
-• Compra de funcionários com desconto em folha deve seguir a tabela de limite de crédito informada pelo RH. O Gerente é o responsável pela autorização dentro dos limites informados. Caso o limite não seja respeitado o gerente passa a ser fiador da compra em questão. 
+## Logística
 
-• A planilha Google Docs deve ser preenchida e atualizada semanalmente; 
+Todo o procedimento de entrega e coleta efetuado pela logística deve ser acompanhado por um colaborador da loja. Quando a logística chegar para a coleta o conteúdo (Transferências, malotes, volumes) devem estar prontos para retirada. Deverá ser feita a conferência de todos os itens que saem e que chegam na loja, sempre na presença de um colaborador da logística. Em caso de recebimento em desacordo deve ser informado imediatamente aos envolvidos (remetente e gerente da logística).
 
-• O pagamento do VR de Domingos e Feriados é realizado na loja em espécie com o valor orientado pelo RH conforme convenção vigente da seguinte forma: Lançar despesa de VR no sistema no valor total dos funcionários Imprimir a relação de ponto eletrônico do dia constando todo o quadro de funcionários ativo no dia. Emitir recibo individual do VR e colher assinatura; Enviar todos documentos acima mencionados ao Rh via Malote; 
+## PIX
 
-• Conferência do fechamento de Caixa. Embora a funcionária da função responda por todo processo, é de extrema importância que o Líder sempre confira o fechamento do dia: Fundo de Caixa , Comprovantes de depósitos, Envelopes, Valores e Cartões. Sendo o primeiro a ter ciência sobre erros se existir (faltas, sobras),aplicando e avaliando com maior eficácia as soluções . 
+Antes de entregar o produto, acessar o sistema do banco para confirmar se o valor aparece no extrato do PIX. Não esquecer de detalhar o documento para confirmar o nome e o horário que o crédito caiu na conta.
 
-• É terminantemente proibido a retirada de valores do caixa sem autorização da Gerência do Financeiro ou RH por quais quer funcionários. 
+## Transferência
 
-• Relatórios de Pontos – Os relatórios de registro de ponto são enviados por e-mail para a loja até dia 02 de cada mês. Os relatórios devem ser impressos, assinados e enviados por malote até dia 20 de cada mês. Por favor caso não receba informar RH imediatamente. Pedimos que confira se todos relatórios foram enviados estão assinados; 
+Pagamentos via Transferência confirmar com o financeiro antes de fazer a entrega do produto. Fora do horário comercial contatar antes de efetuar o pagamento
 
-• Solicitações de Materiais de Limpeza, escritório e cartões de visita devem ser realizados por comunicado via sistema para o RH com no mínimo 1 semana de antecedência do seu estoque. Caso tenha alguma emergência solicitar autorização ou solução junto ao RH; No aguardo que zele e cumpra todos procedimentos e agradeço sugestões de melhorias 
+## Remanejamento de produtos entre lojas
 
-Sem mais e à disposição, 
+O setor de Compras analisa o estoque das lojas e efetua a distribuição dos produtos entre as mesmas. Essa análise é feita diariamente. Caso verifique que sua loja está desabastecida de algum produto, é com o setor de Compras que deve ser solicitado o remanejamento, seguindo algumas regras:
 
-Silvia D Souza Gerente RH
+* Não é possível solicitar remanejamento de produto aberto.
+* Remanejamento para atender vendas somente se a venda estiver paga e o produto lacrado.
+*   Se sua loja tiver o mesmo produto não há transferência.
+
+    Se a sua loja recebeu uma solicitação de transferência e o produto estiver aberto não envie. Informe ao setor de Compras e caso seja autorizado faça o envio.
+
+## Atendimento
+
+Quando alguém entra em uma de nossas lojas ele se torna cliente da MM Santos e deve ser atendido com total atenção e cuidado independente de quem o atenda.&#x20;
+
+O cliente foi atendido e não efetuou a compra na primeira visita, no retorno o cliente deverá ser atendido pelo vendedor que estiver disponível em loja e a venda deve ser efetuada como se fosse o primeiro atendimento, a não ser que o cliente procure o vendedor inicial para finalizar a compra com a condição oferecida na primeira abordagem.&#x20;
+
+O cliente deve ser abordado e atendido assim que entrar na loja, coloque-se à disposição, deixe-o à vontade e permaneça próximo para eventuais dúvidas, esclarecimentos e informações.
+
+## Desconto em produtos
+
+A empresa possui uma política de descontos e a mesma deve ser seguida e respeitada. Todas as alterações nessa política são repassadas constantemente por todos os meios de comunicação (e-mail, mensagens, ligações).&#x20;
+
+A loja tem autonomia de descontos dentro dos limites informados, porém, qualquer prática que fuja dessa regra deverá haver consulta ao setor de Compras. Havendo a permissão deverá ser descrito no histórico da venda o motivo da solicitação e quem autorizou.&#x20;
+
+Cada venda é uma negociação diferente. O desconto autorizado em uma venda não se aplica às demais, portanto, vendas efetuadas em sua loja ou em outra não são parâmetro ou justificativa para aplicar descontos.
+
+## Produtos com defeito
+
+O Consultor deverá iniciar o atendimento verbal com o cliente e depois direcionar ao Back Office para as devidas verificações.&#x20;
+
+A análise do produto deverá ser efetuada no Pacote ou na área de Assistência da loja, local onde as câmeras devem captar o atendimento para nossa segurança.&#x20;
+
+A garantia do produto com avaria física deve ser rejeitada imediatamente, independente do defeito reclamado.&#x20;
+
+Em caso de dúvidas em relação ao defeito informado ter cobertura pela garantia deverá ser aberta uma O.S. como ORÇAMENTO e informado ao cliente que o produto passará por uma análise técnica e que após isso o contataremos para informar se a reclamação procede ou não.&#x20;
+
+Dúvidas técnicas sobre os produtos devem ser solucionadas antes de abrir a O.S. consultando o Gerente da Loja, caso a dúvida persista contate o Gerente de Processos, Encarregado do CV, Gerente Operacional ou Compras.&#x20;
+
+A MM Santos disponibiliza como cortesia o prazo de 72h para o cliente efetuar a troca do produto em caso de defeito de fabricação em qualquer uma de suas lojas.&#x20;
+
+I**mportante**: Independentemente de onde o produto foi comprado a loja deve recepcionar o produto, abrir a ordem de serviço, efetuar os devidos testes sobre o defeito reclamado e, em caso de reclamação procedente, efetuar a troca. Quando houver esse tipo de atendimento a venda deve ser lançada na loja que efetuou a troca. Nos casos que o produto foi vendido com Garantia Contratual: Troca for pelo mesmo produto: deve ser feita a devolução parcial da venda mantendo a garantia na venda original e lançando uma nova apenas para o produto. Troca por produto diferente: deve ser feita a devolução total e lançada uma nova venda para a loja que efetuou o procedimento.
+
+## Reserva de Produtos
+
+Ao efetuar uma venda em que o produto não está em sua loja entre em contato com a loja em que o produto está e verifique se o mesmo está lacrado.&#x20;
+
+Em caso positivo lance a venda, efetue a cobrança e reserve o produto da loja por contato telefônico ratificando por comunicado informando no mesmo o produto e com quem foi reservado. Imprima o recibo da compra e peça ao cliente retirar na loja informada.&#x20;
+
+Se o produto estiver aberto, lance a venda e o cliente deverá ir até o local verificar o estado do produto.&#x20;
+
+Se o cliente for no mesmo dia a loja em que está o produto deverá ser informada para reservar o produto para averiguação.&#x20;
+
+Se o cliente não for no mesmo dia deverá ser avisado ao cliente que se outro cliente quiser adquirir o produto será vendido. O pagamento do produto aberto deverá ser feito somente após a averiguação e aceite da compra do produto no estado.
