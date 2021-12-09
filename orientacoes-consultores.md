@@ -4,7 +4,7 @@
 
 Olá comerciário, para garantir um bom trabalho segue algumas orientações importantes na sua rotina:
 
-•** **Sua Jornada de trabalho é de 44hs semanais com direito a 1 folga semanal (domingos ou quando trabalhar domingo folgar durante a semana entre: segunda-feira, terça / quarta e quinta-feira, tudo sinalizado em escala e disponibilizada com 72hs de antecedência do seu vigor. Não é permitido folgas nos dias: sexta-feira ou sábado. Salvo algum motivo e autorizado pelo Gerente da unidade.
+• **** Sua Jornada de trabalho é de 44hs semanais com direito a 1 folga semanal (domingos ou quando trabalhar domingo folgar durante a semana entre: segunda-feira, terça / quarta e quinta-feira, tudo sinalizado em escala e disponibilizada com 72hs de antecedência do seu vigor. Não é permitido folgas nos dias: sexta-feira ou sábado. Salvo algum motivo e autorizado pelo Gerente da unidade.
 
 • Muita atenção aos procedimentos de segurança: Abertura de Loja; Andamento do Dia e Fechamento de loja.· Deve se apresentar ao trabalho uniformizado e com crachá de identificação. Pedimos:· Colaboradoras se apresentar com maquiagem simples sem exageros.· Moderação quanto ao uso de acessórios, penteados, piercings exagerados (principalmente na face).
 
