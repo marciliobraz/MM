@@ -84,4 +84,4 @@ Vantagens econômicas e/ou situações de emergência não podem, em hipótese a
 
 &#x20;
 
-&#x20;               As avaliações e medidas aplicáveis serão definidas de acordo com a gravidade de cada violação, podendo resultar em cartas de advertência, suspensão e até rescisão contratual
+&#x20;               As avaliações e medidas aplicáveis serão definidas de acordo com a gravidade de cada violação, podendo resultar em cartas de advertência, suspensão e até rescisão contratual.
