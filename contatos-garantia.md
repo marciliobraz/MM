@@ -412,7 +412,15 @@ TELEFONE (11) 3198-0004 SEGUNDA A SEXTA: 08H AS 22H SABADO: 08H AS 18H  - HORARI
 
 ## OEX
 
-GARANTIA BALCAO DE ACORDO COM A VALIDADE DA GARANTIA DO FABRIACANTE, SAC 0800-887-0505 / (11) 3664-3202 RAMAL 1060 E 1068 /E-MAIL NEWEX@NEWEX.COM.BR /SITE [WWW.NEWEX.COM.BR](http://www.newex.com.br)
+Garantia de 12 meses para os seus produtos que eventualmente apresentem defeitos de fabricação a partir da data de emissão da Nota Fiscal.&#x20;
+
+SAC: 0800-8870-505 (ligações de telefone fixo ou WhatsApp)&#x20;
+
+segunda a quinta: 9h às 17h&#x20;
+
+sexta.: 9h às 16h&#x20;
+
+E-mail: [sac@orangeexperience.com.br](mailto:sac@orangeexperience.com.br)
 
 &#x20;
 
